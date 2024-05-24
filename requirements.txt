@@ -1,8 +1,8 @@
 streamlit
 random2
 mysql-connector-python
+uuid
 pillow
 qrcode
 opencv-python
-numpy>=1.21.2
 pyzbar
