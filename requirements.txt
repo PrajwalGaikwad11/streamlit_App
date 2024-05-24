@@ -4,4 +4,5 @@ mysql-connector-python
 pillow
 qrcode
 opencv-python
+numpy>=1.21.2
 pyzbar
