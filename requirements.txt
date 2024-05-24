@@ -1,6 +1,5 @@
 streamlit
 random2
-smtplib
 mysql-connector-python
 re
 uuid
