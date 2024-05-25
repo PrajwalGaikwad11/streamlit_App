@@ -5,4 +5,4 @@ uuid
 pillow
 qrcode
 opencv-python
-pyzbar.pyzbar
+pyzbar
